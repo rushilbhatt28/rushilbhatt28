@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi I'm Rushil Bhatt 🙋🏽‍♂️</h1>
 
-<p align = "center">A <b>Junior Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating Frontend web applications and content that can be of value to others. Highly passionate about System Design, Architecture and Clean Code. Besides juggling work, I can be found traveling to enjoy various types of food, cultures, and incredible eye catching landscapes accross the globe 🗺.
+<p align = "center">A <b>Junior Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating Frontend web applications and content that can be of value to others. Mostly focuesd about System Design, Architecture and Clean Code. Besides developing, I can be found traveling to enjoy various types of food, cultures, and incredible eye catching landscapes accross the globe 🗺. 
   
 ### <h1>Skills 🎯💪</h1>
 ## 🖥️ Programming languages
@@ -26,10 +26,10 @@
   
 <h3> 🌎🔗 How to reach me 🚀<h2>
 <p>
-	<a href="mailto:ushilbhatt533@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/rushilbhatt28/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rushil-bhatt-5a8402157/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/RushilBhatt7"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="mailto:ushilbhatt533@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/rushilbhatt28/"><img src="https://img.icons8.com/ios/50/22C3E6/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rushil-bhatt-5a8402157/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/RushilBhatt7"><img src="https://img.icons8.com/ios/50/22C3E6/twitter--v1.png" alt="Twitter"/></a>
 </p>
 
 <!-- - 🔭 
