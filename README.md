@@ -26,7 +26,7 @@
   
 <h3> 🌎🔗 How to reach me 🚀<h2>
 <p>
-	<a href="mailto:ushilbhatt533@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:rushilbhatt533@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/rushilbhatt28/"><img src="https://img.icons8.com/ios/50/22C3E6/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rushil-bhatt-5a8402157/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/RushilBhatt7"><img src="https://img.icons8.com/ios/50/22C3E6/twitter--v1.png" alt="Twitter"/></a>
