@@ -5,17 +5,17 @@
 ### <h1>Skills 🎯💪</h1>
 ## 🖥️ Programming languages
 
-![skills](https://skillicons.dev/icons?i=javascript,typescript&theme=light)
+![skills](https://skillicons.dev/icons?i=javascript,typescript&theme=dark)
 ## ▶ Frontend 
 
-![skills](https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,sass&theme=light)
+![skills](https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,sass&theme=dark)
   
 ## 🅱 Backend
 
-![skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs&theme=light)
+![skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs&theme=dark)
 
 ## 🗂️ Databases & Cloud Hosting 
-![skills](https://skillicons.dev/icons?i=firebase,mongodb,postgres&theme=light)
+![skills](https://skillicons.dev/icons?i=firebase,mongodb,postgres&theme=dark)
 <br />
 <hr/>
 <h1> 🌎🔗 How to reach me 🚀<h1>
