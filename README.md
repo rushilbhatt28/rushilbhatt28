@@ -32,6 +32,8 @@
 	<a href="https://twitter.com/RushilBhatt7"><img src="https://img.icons8.com/ios/50/22C3E6/twitter--v1.png" alt="Twitter"/></a>
 </p>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=rushilbhatt28&theme=highcontrast&show_icons=true&count_private=true)
+
 <!-- - 🔭 
 - 🌱 I’m currently diving deep into react conceptes and learning web3 technologies
 - 💬 Ask me about 
