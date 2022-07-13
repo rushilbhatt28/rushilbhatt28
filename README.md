@@ -1,4 +1,4 @@
-### <h1 align="center">Hi I'm Rushil Bhatt 🙋🏽‍♂️</h1>
+### <h1 align="center">Hi there, I'm Rushil Bhatt! 🙋🏽‍♂️</h1>
 
 <p align = "center">A <b>Junior Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating Frontend web applications and content that can be of value to others. Mostly focuesd about website & mobile Design, Architecture and Clean Code. Besides developing, I can be found traveling to enjoy various types of food, cultures, and incredible eye catching landscapes accross the globe 🗺. 
   
@@ -19,20 +19,25 @@
 ## 🗂️ Databases & Cloud Hosting 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) &nbsp;
-
 <br />
 <hr/>
-  
-  
-<h3> 🌎🔗 How to reach me 🚀<h2>
+<h1> 🌎🔗 How to reach me 🚀<h1>
 <p>
 	<a href="mailto:rushilbhatt533@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/rushilbhatt28/"><img src="https://img.icons8.com/ios/50/22C3E6/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/rushil-bhatt-5a8402157/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/RushilBhatt7"><img src="https://img.icons8.com/ios/50/22C3E6/twitter--v1.png" alt="Twitter"/></a>
 </p>
+<hr/>
+	
+<h1>Stats📊</h1>
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilbhatt28&layout=compact) 
+	
+![Github stats](https://github-readme-stats.vercel.app/api?username=rushilbhatt28&show_icons=true&theme=tokyonight&count_private=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rushilbhatt28&theme=highcontrast&show_icons=true&count_private=true)
+
+
 
 <!-- - 🔭 
 - 🌱 I’m currently diving deep into react conceptes and learning web3 technologies
