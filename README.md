@@ -29,7 +29,7 @@
 	
 <h1>Stats📊</h1>
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilbhatt28&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilbhatt28) 
 	
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rushilbhatt28&show_icons=true&theme=tokyonight&count_private=true)
 
